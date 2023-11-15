@@ -1,0 +1,11 @@
+{
+  "name": "shared-module",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "exports": "./shared-module.ts",
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "typescript": "^5.2.2"
+  }
+}

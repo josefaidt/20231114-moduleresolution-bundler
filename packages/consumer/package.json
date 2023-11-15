@@ -1,0 +1,15 @@
+{
+  "name": "consumer",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.0",
+    "shared-module": "*",
+    "tsx": "^4.1.2",
+    "typescript": "^5.2.2"
+  }
+}
